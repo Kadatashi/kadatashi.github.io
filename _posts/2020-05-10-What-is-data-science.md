@@ -14,4 +14,4 @@ Wow, sounds cool! But... what university degree should I study to became a Data 
 * Data Engineer / Bussines Intelligence 
 * Data Scientist
 
-![Software difference](.\img\difference-between-ds-de-da-3.jpg)
+![Software difference](/assets/img/difference-between-ds-de-da-3.jpg)
