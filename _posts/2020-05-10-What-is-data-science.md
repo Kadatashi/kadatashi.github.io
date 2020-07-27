@@ -4,6 +4,8 @@ title: What is data science?
 subtitle: Data scientist/engineer/analyst
 tags: [Ch0]
 comments: true
+thumbnail-img: /assets/img/difference-between-ds-de-da-0.jpg
+share-img: /assets/img/difference-between-ds-de-da-0.jpg
 ---
 
 [Data Science](https://en.wikipedia.org/wiki/Data_science) mission is to understand and analyze a real phenomena from data. To carry this out, the main fields that a Data Scientist should master are: mathematics & statistics, computer science and domain knowledge.
