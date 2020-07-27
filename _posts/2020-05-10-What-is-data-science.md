@@ -2,9 +2,9 @@
 layout: post
 title: What is data science?
 subtitle: Data scientist/engineer/analyst
-tags: [Ch0]
+tags: [Ch0, Chapter]
 comments: true
-thumbnail-img: /assets/img/difference-between-ds-de-da-0.jpg
+thumbnail-img: /assets/img/difference-between-ds-de-da.jpg
 
 ---
 
