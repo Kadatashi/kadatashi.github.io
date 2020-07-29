@@ -19,10 +19,10 @@ Wow, sounds cool! But... what university degree should I study to became a Data 
 * Data Scientist
 
 ### Hard Skills
-![Salaries difference](/assets/img/difference-between-ds-de-da-1.jpg){: .mx-auto.d-block :}
+![Hard Skills](/assets/img/difference-between-ds-de-da-1.jpg){: .mx-auto.d-block :}
 
-### Average Salaries
+### Average Wage
 ![Salaries difference](/assets/img/difference-between-ds-de-da-2.jpg){: .mx-auto.d-block :}
 
-### Most used Software 
+### Common Computer Skills 
 ![Software difference](/assets/img/difference-between-ds-de-da-3.jpg){: .mx-auto.d-block :}
